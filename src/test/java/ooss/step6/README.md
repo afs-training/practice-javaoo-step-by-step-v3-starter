@@ -70,8 +70,8 @@
     >It is not one of us.
 
 # step6
-- When a student is assigned as leader, the teacher of this class will say:
+- When a student is assigned as leader, the teacher of this class is attached to the class , the teacher  will say:
    > I am Jerry, teacher of Class 2. I know Tom become Leader.
 
-- When a student is assigned as leader, other students in this class will say:
+- When a student is assigned as leader,other student in this class is attached to the class,  other students  will say:
    > I am Bob, student of Class 2. I know Tom become Leader.
